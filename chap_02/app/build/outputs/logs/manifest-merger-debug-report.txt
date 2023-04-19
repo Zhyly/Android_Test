@@ -1,0 +1,380 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] D:\MyApplication3\caches\transforms-3\4c5bb7fe387add07be7823ff0c35979b\transformed\viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.5.3] D:\MyApplication3\caches\transforms-3\1869c0d2cc444e54d73d3075740727e5\transformed\navigation-compose-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.5.1] D:\MyApplication3\caches\transforms-3\50ffb8b7e91cae78f9fb725756fd347b\transformed\activity-compose-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.0.1] D:\MyApplication3\caches\transforms-3\1d86b4ef230ea53a94e25d8012d2f45b\transformed\animation-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\MyApplication3\caches\transforms-3\c7d8966c6b3d1a6d13bd665c49716691\transformed\foundation-layout-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] D:\MyApplication3\caches\transforms-3\2a55edb74612be39388a5161cf4c3254\transformed\lifecycle-viewmodel-compose-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\MyApplication3\caches\transforms-3\6118233a887634343d7968bbb70f4faa\transformed\animation-core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.0.1] D:\MyApplication3\caches\transforms-3\96cfc221a3aa6096f60bb01200ebe6a8\transformed\ui-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\MyApplication3\caches\transforms-3\d38d17dc2b93abcb900c8f728921f7c3\transformed\ui-text-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\MyApplication3\caches\transforms-3\0888b15993d8a0d4290ac27d95ea702d\transformed\runtime-saveable-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\MyApplication3\caches\transforms-3\d250a4204b50fa44753d09ad449ce8cc\transformed\ui-graphics-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\MyApplication3\caches\transforms-3\5e45cf96edced98ef85a642b757ea327\transformed\ui-unit-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\MyApplication3\caches\transforms-3\ce565c56553b4c8f121dd6c58cc4966e\transformed\ui-geometry-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\MyApplication3\caches\transforms-3\8c8d472c873f29ec319d513504a9a7b6\transformed\runtime-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\75cd24f71569ffb91fc0e25f5ad35ec3\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] D:\MyApplication3\caches\transforms-3\c4c0d032fe35f6f100d038bb6213ede7\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] D:\MyApplication3\caches\transforms-3\26aaf7733e938f6fbfed6be89825719b\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\22fac627b79804361517389ff28a9eb6\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\c7411651f0d5bc6959ad1e9a52cf64a3\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] D:\MyApplication3\caches\transforms-3\71e46573ad85b3d02272ec76910be923\transformed\navigation-ui-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] D:\MyApplication3\caches\transforms-3\cfc7bd9c7578f2e3c620b6f8c846f2ca\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] D:\MyApplication3\caches\transforms-3\0dd4b7104f9c59d0f5f28f4365a638f8\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\8d2a5d070035ace4b8b5222d5ab965c9\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] D:\MyApplication3\caches\transforms-3\35d560667f1d0a9f011f717f5af8f69e\transformed\navigation-common-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] D:\MyApplication3\caches\transforms-3\77c731e333d444caaf1992c08c9213b3\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] D:\MyApplication3\caches\transforms-3\03fcce70313ee9bfe2fe8fdc65dc16be\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\MyApplication3\caches\transforms-3\ec69b0f3c8cfcbb19f1691dbd353be0b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] D:\MyApplication3\caches\transforms-3\a0bc237ca5f120b3a8c5ef3134ef0670\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\MyApplication3\caches\transforms-3\64871805f28cffbed0a8b181bcf3d1f1\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] D:\MyApplication3\caches\transforms-3\05f369aa2511e8e095cfc25586e74ac6\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] D:\MyApplication3\caches\transforms-3\b72fdd1961314550a07f50f00b26db2a\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\MyApplication3\caches\transforms-3\b376bc386d1d926248d0525e781b0ac0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\MyApplication3\caches\transforms-3\87b3fc25b0bab581bc2e09a10bc0c4b2\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\MyApplication3\caches\transforms-3\73f8542e50eff96f15d642d4e7aa7fc1\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] D:\MyApplication3\caches\transforms-3\ca8e4595f3df54286af2784a0e79e39d\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] D:\MyApplication3\caches\transforms-3\e6ac8c4f1f4c4f2e178a76f7ac92b8d2\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] D:\MyApplication3\caches\transforms-3\663a6d04a30a430846d70f23f0b9386c\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\MyApplication3\caches\transforms-3\326073c821e4a3be3248c03787220ad5\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core-ktx:1.7.0] D:\MyApplication3\caches\transforms-3\5d00a04819f5bd9b521d0d2f5018b723\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] D:\MyApplication3\caches\transforms-3\1cfebbd9274ceecf63bfdfb5ad4571a8\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] D:\MyApplication3\caches\transforms-3\035156c6297f41d9e67598c81952b133\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] D:\MyApplication3\caches\transforms-3\54b2c7f65e2615324bde0ed66dd9a587\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\MyApplication3\caches\transforms-3\f51b6265d9f40d9b992b987733766de8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] D:\MyApplication3\caches\transforms-3\62d342b38c1e08b1952741fcb8e164a6\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\MyApplication3\caches\transforms-3\342e339b174f774f3fc081d55d9ea9e7\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\MyApplication3\caches\transforms-3\c7fb5d642416814e034ccae610f854cc\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] D:\MyApplication3\caches\transforms-3\b3c1c8cf76ec5ad54a85e05c2bbd3235\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\MyApplication3\caches\transforms-3\a2dbdf87c3c06a3ef104d650f427b41a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\MyApplication3\caches\transforms-3\3b89ea33a83766b42602a63233c5e25c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\MyApplication3\caches\transforms-3\b86828931d296dcdc5a6992e65ee806f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\MyApplication3\caches\transforms-3\5ea596b1aaa15359c84f201202eb983b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\MyApplication3\caches\transforms-3\9807db665fcbd831e399ffbdea12b3a9\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\MyApplication3\caches\transforms-3\4dbd22c03d862ecd73e409721b6d293a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\MyApplication3\caches\transforms-3\837db8ddffaf00032d73ee16fe929042\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] D:\MyApplication3\caches\transforms-3\335ab9fc08510e54fe6783eaa6832f5f\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] D:\MyApplication3\caches\transforms-3\d36a5a90f5d723dd4a02bd2c87425a20\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] D:\MyApplication3\caches\transforms-3\8d37bba4bc8ffac9847086446a9bbd2c\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] D:\MyApplication3\caches\transforms-3\68c4219ad6e66c005af68843c619a63a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\MyApplication3\caches\transforms-3\71121648efe35d4a8af2ba5339c4cfc5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\MyApplication3\caches\transforms-3\db6376d4a474cbfa301dadb5d693a3f5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\MyApplication3\caches\transforms-3\f9276cd4cc86fa746c734d7e45b8517a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\MyApplication3\caches\transforms-3\bf69961a17af4827b5db622b00b54edf\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\MyApplication3\caches\transforms-3\3019799eac3788e72e6ed0ad74808978\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\MyApplication3\caches\transforms-3\8fae259a1a799ee98e3dd90b58e0ad95\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\MyApplication3\caches\transforms-3\f4d9b1a0e901aa9ab70bd36a96b8fa9b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\MyApplication3\caches\transforms-3\ab3f7c22079930573c46c1e355819469\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\MyApplication3\caches\transforms-3\a6a490f99700e50ea33c5194d4520c51\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\MyApplication3\caches\transforms-3\26b2b979b3827863c66132c52037472c\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\MyApplication3\caches\transforms-3\6029b5633f1dc7336ce8a4397ee80e01\transformed\ui-util-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\MyApplication3\caches\transforms-3\19e7687a667da7f11c889d2e8fcf4903\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.google.android.material:material:1.5.0] D:\MyApplication3\caches\transforms-3\03fcce70313ee9bfe2fe8fdc65dc16be\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] D:\MyApplication3\caches\transforms-3\03fcce70313ee9bfe2fe8fdc65dc16be\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\MyApplication3\caches\transforms-3\ec69b0f3c8cfcbb19f1691dbd353be0b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\MyApplication3\caches\transforms-3\ec69b0f3c8cfcbb19f1691dbd353be0b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\MyApplication3\caches\transforms-3\c7fb5d642416814e034ccae610f854cc\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\MyApplication3\caches\transforms-3\c7fb5d642416814e034ccae610f854cc\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] D:\MyApplication3\caches\transforms-3\8d37bba4bc8ffac9847086446a9bbd2c\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] D:\MyApplication3\caches\transforms-3\8d37bba4bc8ffac9847086446a9bbd2c\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\MyApplication3\caches\transforms-3\f9276cd4cc86fa746c734d7e45b8517a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\MyApplication3\caches\transforms-3\f9276cd4cc86fa746c734d7e45b8517a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\MyApplication3\caches\transforms-3\bf69961a17af4827b5db622b00b54edf\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\MyApplication3\caches\transforms-3\bf69961a17af4827b5db622b00b54edf\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] D:\MyApplication3\caches\transforms-3\8d37bba4bc8ffac9847086446a9bbd2c\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:8:9-54
+	tools:targetApi
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:12:9-51
+	android:dataExtractionRules
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.myapplication.MainActivity
+ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:14:9-24:20
+	android:label
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:17:13-45
+	android:exported
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:16:13-36
+	android:theme
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:18:13-67
+	android:name
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] D:\MyApplication3\caches\transforms-3\4c5bb7fe387add07be7823ff0c35979b\transformed\viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] D:\MyApplication3\caches\transforms-3\4c5bb7fe387add07be7823ff0c35979b\transformed\viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.5.3] D:\MyApplication3\caches\transforms-3\1869c0d2cc444e54d73d3075740727e5\transformed\navigation-compose-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] D:\MyApplication3\caches\transforms-3\1869c0d2cc444e54d73d3075740727e5\transformed\navigation-compose-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] D:\MyApplication3\caches\transforms-3\50ffb8b7e91cae78f9fb725756fd347b\transformed\activity-compose-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] D:\MyApplication3\caches\transforms-3\50ffb8b7e91cae78f9fb725756fd347b\transformed\activity-compose-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.1] D:\MyApplication3\caches\transforms-3\1d86b4ef230ea53a94e25d8012d2f45b\transformed\animation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.0.1] D:\MyApplication3\caches\transforms-3\1d86b4ef230ea53a94e25d8012d2f45b\transformed\animation-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\MyApplication3\caches\transforms-3\c7d8966c6b3d1a6d13bd665c49716691\transformed\foundation-layout-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.0.1] D:\MyApplication3\caches\transforms-3\c7d8966c6b3d1a6d13bd665c49716691\transformed\foundation-layout-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] D:\MyApplication3\caches\transforms-3\2a55edb74612be39388a5161cf4c3254\transformed\lifecycle-viewmodel-compose-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] D:\MyApplication3\caches\transforms-3\2a55edb74612be39388a5161cf4c3254\transformed\lifecycle-viewmodel-compose-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\MyApplication3\caches\transforms-3\6118233a887634343d7968bbb70f4faa\transformed\animation-core-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.1] D:\MyApplication3\caches\transforms-3\6118233a887634343d7968bbb70f4faa\transformed\animation-core-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] D:\MyApplication3\caches\transforms-3\96cfc221a3aa6096f60bb01200ebe6a8\transformed\ui-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.1] D:\MyApplication3\caches\transforms-3\96cfc221a3aa6096f60bb01200ebe6a8\transformed\ui-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\MyApplication3\caches\transforms-3\d38d17dc2b93abcb900c8f728921f7c3\transformed\ui-text-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.1] D:\MyApplication3\caches\transforms-3\d38d17dc2b93abcb900c8f728921f7c3\transformed\ui-text-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\MyApplication3\caches\transforms-3\0888b15993d8a0d4290ac27d95ea702d\transformed\runtime-saveable-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.0.1] D:\MyApplication3\caches\transforms-3\0888b15993d8a0d4290ac27d95ea702d\transformed\runtime-saveable-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\MyApplication3\caches\transforms-3\d250a4204b50fa44753d09ad449ce8cc\transformed\ui-graphics-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.1] D:\MyApplication3\caches\transforms-3\d250a4204b50fa44753d09ad449ce8cc\transformed\ui-graphics-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\MyApplication3\caches\transforms-3\5e45cf96edced98ef85a642b757ea327\transformed\ui-unit-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.1] D:\MyApplication3\caches\transforms-3\5e45cf96edced98ef85a642b757ea327\transformed\ui-unit-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\MyApplication3\caches\transforms-3\ce565c56553b4c8f121dd6c58cc4966e\transformed\ui-geometry-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.1] D:\MyApplication3\caches\transforms-3\ce565c56553b4c8f121dd6c58cc4966e\transformed\ui-geometry-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\MyApplication3\caches\transforms-3\8c8d472c873f29ec319d513504a9a7b6\transformed\runtime-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.1] D:\MyApplication3\caches\transforms-3\8c8d472c873f29ec319d513504a9a7b6\transformed\runtime-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\75cd24f71569ffb91fc0e25f5ad35ec3\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\75cd24f71569ffb91fc0e25f5ad35ec3\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] D:\MyApplication3\caches\transforms-3\c4c0d032fe35f6f100d038bb6213ede7\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] D:\MyApplication3\caches\transforms-3\c4c0d032fe35f6f100d038bb6213ede7\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] D:\MyApplication3\caches\transforms-3\26aaf7733e938f6fbfed6be89825719b\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] D:\MyApplication3\caches\transforms-3\26aaf7733e938f6fbfed6be89825719b\transformed\fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\22fac627b79804361517389ff28a9eb6\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\22fac627b79804361517389ff28a9eb6\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\c7411651f0d5bc6959ad1e9a52cf64a3\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\c7411651f0d5bc6959ad1e9a52cf64a3\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] D:\MyApplication3\caches\transforms-3\71e46573ad85b3d02272ec76910be923\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] D:\MyApplication3\caches\transforms-3\71e46573ad85b3d02272ec76910be923\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] D:\MyApplication3\caches\transforms-3\cfc7bd9c7578f2e3c620b6f8c846f2ca\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] D:\MyApplication3\caches\transforms-3\cfc7bd9c7578f2e3c620b6f8c846f2ca\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] D:\MyApplication3\caches\transforms-3\0dd4b7104f9c59d0f5f28f4365a638f8\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] D:\MyApplication3\caches\transforms-3\0dd4b7104f9c59d0f5f28f4365a638f8\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\8d2a5d070035ace4b8b5222d5ab965c9\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] D:\MyApplication3\caches\transforms-3\8d2a5d070035ace4b8b5222d5ab965c9\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] D:\MyApplication3\caches\transforms-3\35d560667f1d0a9f011f717f5af8f69e\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] D:\MyApplication3\caches\transforms-3\35d560667f1d0a9f011f717f5af8f69e\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] D:\MyApplication3\caches\transforms-3\77c731e333d444caaf1992c08c9213b3\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] D:\MyApplication3\caches\transforms-3\77c731e333d444caaf1992c08c9213b3\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] D:\MyApplication3\caches\transforms-3\03fcce70313ee9bfe2fe8fdc65dc16be\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] D:\MyApplication3\caches\transforms-3\03fcce70313ee9bfe2fe8fdc65dc16be\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\MyApplication3\caches\transforms-3\ec69b0f3c8cfcbb19f1691dbd353be0b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\MyApplication3\caches\transforms-3\ec69b0f3c8cfcbb19f1691dbd353be0b\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] D:\MyApplication3\caches\transforms-3\a0bc237ca5f120b3a8c5ef3134ef0670\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] D:\MyApplication3\caches\transforms-3\a0bc237ca5f120b3a8c5ef3134ef0670\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\MyApplication3\caches\transforms-3\64871805f28cffbed0a8b181bcf3d1f1\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\MyApplication3\caches\transforms-3\64871805f28cffbed0a8b181bcf3d1f1\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] D:\MyApplication3\caches\transforms-3\05f369aa2511e8e095cfc25586e74ac6\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] D:\MyApplication3\caches\transforms-3\05f369aa2511e8e095cfc25586e74ac6\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] D:\MyApplication3\caches\transforms-3\b72fdd1961314550a07f50f00b26db2a\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] D:\MyApplication3\caches\transforms-3\b72fdd1961314550a07f50f00b26db2a\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\MyApplication3\caches\transforms-3\b376bc386d1d926248d0525e781b0ac0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\MyApplication3\caches\transforms-3\b376bc386d1d926248d0525e781b0ac0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\MyApplication3\caches\transforms-3\87b3fc25b0bab581bc2e09a10bc0c4b2\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\MyApplication3\caches\transforms-3\87b3fc25b0bab581bc2e09a10bc0c4b2\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\MyApplication3\caches\transforms-3\73f8542e50eff96f15d642d4e7aa7fc1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\MyApplication3\caches\transforms-3\73f8542e50eff96f15d642d4e7aa7fc1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] D:\MyApplication3\caches\transforms-3\ca8e4595f3df54286af2784a0e79e39d\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] D:\MyApplication3\caches\transforms-3\ca8e4595f3df54286af2784a0e79e39d\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] D:\MyApplication3\caches\transforms-3\e6ac8c4f1f4c4f2e178a76f7ac92b8d2\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] D:\MyApplication3\caches\transforms-3\e6ac8c4f1f4c4f2e178a76f7ac92b8d2\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] D:\MyApplication3\caches\transforms-3\663a6d04a30a430846d70f23f0b9386c\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] D:\MyApplication3\caches\transforms-3\663a6d04a30a430846d70f23f0b9386c\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\MyApplication3\caches\transforms-3\326073c821e4a3be3248c03787220ad5\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\MyApplication3\caches\transforms-3\326073c821e4a3be3248c03787220ad5\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] D:\MyApplication3\caches\transforms-3\5d00a04819f5bd9b521d0d2f5018b723\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] D:\MyApplication3\caches\transforms-3\5d00a04819f5bd9b521d0d2f5018b723\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] D:\MyApplication3\caches\transforms-3\1cfebbd9274ceecf63bfdfb5ad4571a8\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] D:\MyApplication3\caches\transforms-3\1cfebbd9274ceecf63bfdfb5ad4571a8\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] D:\MyApplication3\caches\transforms-3\035156c6297f41d9e67598c81952b133\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] D:\MyApplication3\caches\transforms-3\035156c6297f41d9e67598c81952b133\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] D:\MyApplication3\caches\transforms-3\54b2c7f65e2615324bde0ed66dd9a587\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] D:\MyApplication3\caches\transforms-3\54b2c7f65e2615324bde0ed66dd9a587\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\MyApplication3\caches\transforms-3\f51b6265d9f40d9b992b987733766de8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\MyApplication3\caches\transforms-3\f51b6265d9f40d9b992b987733766de8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] D:\MyApplication3\caches\transforms-3\62d342b38c1e08b1952741fcb8e164a6\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] D:\MyApplication3\caches\transforms-3\62d342b38c1e08b1952741fcb8e164a6\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\MyApplication3\caches\transforms-3\342e339b174f774f3fc081d55d9ea9e7\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\MyApplication3\caches\transforms-3\342e339b174f774f3fc081d55d9ea9e7\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\MyApplication3\caches\transforms-3\c7fb5d642416814e034ccae610f854cc\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\MyApplication3\caches\transforms-3\c7fb5d642416814e034ccae610f854cc\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] D:\MyApplication3\caches\transforms-3\b3c1c8cf76ec5ad54a85e05c2bbd3235\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] D:\MyApplication3\caches\transforms-3\b3c1c8cf76ec5ad54a85e05c2bbd3235\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\MyApplication3\caches\transforms-3\a2dbdf87c3c06a3ef104d650f427b41a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\MyApplication3\caches\transforms-3\a2dbdf87c3c06a3ef104d650f427b41a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\MyApplication3\caches\transforms-3\3b89ea33a83766b42602a63233c5e25c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\MyApplication3\caches\transforms-3\3b89ea33a83766b42602a63233c5e25c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\MyApplication3\caches\transforms-3\b86828931d296dcdc5a6992e65ee806f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\MyApplication3\caches\transforms-3\b86828931d296dcdc5a6992e65ee806f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\MyApplication3\caches\transforms-3\5ea596b1aaa15359c84f201202eb983b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\MyApplication3\caches\transforms-3\5ea596b1aaa15359c84f201202eb983b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\MyApplication3\caches\transforms-3\9807db665fcbd831e399ffbdea12b3a9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\MyApplication3\caches\transforms-3\9807db665fcbd831e399ffbdea12b3a9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\MyApplication3\caches\transforms-3\4dbd22c03d862ecd73e409721b6d293a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\MyApplication3\caches\transforms-3\4dbd22c03d862ecd73e409721b6d293a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\MyApplication3\caches\transforms-3\837db8ddffaf00032d73ee16fe929042\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\MyApplication3\caches\transforms-3\837db8ddffaf00032d73ee16fe929042\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\MyApplication3\caches\transforms-3\335ab9fc08510e54fe6783eaa6832f5f\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\MyApplication3\caches\transforms-3\335ab9fc08510e54fe6783eaa6832f5f\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] D:\MyApplication3\caches\transforms-3\d36a5a90f5d723dd4a02bd2c87425a20\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] D:\MyApplication3\caches\transforms-3\d36a5a90f5d723dd4a02bd2c87425a20\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] D:\MyApplication3\caches\transforms-3\8d37bba4bc8ffac9847086446a9bbd2c\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] D:\MyApplication3\caches\transforms-3\8d37bba4bc8ffac9847086446a9bbd2c\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] D:\MyApplication3\caches\transforms-3\68c4219ad6e66c005af68843c619a63a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] D:\MyApplication3\caches\transforms-3\68c4219ad6e66c005af68843c619a63a\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\MyApplication3\caches\transforms-3\71121648efe35d4a8af2ba5339c4cfc5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\MyApplication3\caches\transforms-3\71121648efe35d4a8af2ba5339c4cfc5\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\MyApplication3\caches\transforms-3\db6376d4a474cbfa301dadb5d693a3f5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\MyApplication3\caches\transforms-3\db6376d4a474cbfa301dadb5d693a3f5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\MyApplication3\caches\transforms-3\f9276cd4cc86fa746c734d7e45b8517a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\MyApplication3\caches\transforms-3\f9276cd4cc86fa746c734d7e45b8517a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\MyApplication3\caches\transforms-3\bf69961a17af4827b5db622b00b54edf\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\MyApplication3\caches\transforms-3\bf69961a17af4827b5db622b00b54edf\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\MyApplication3\caches\transforms-3\3019799eac3788e72e6ed0ad74808978\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\MyApplication3\caches\transforms-3\3019799eac3788e72e6ed0ad74808978\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] D:\MyApplication3\caches\transforms-3\8fae259a1a799ee98e3dd90b58e0ad95\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\MyApplication3\caches\transforms-3\8fae259a1a799ee98e3dd90b58e0ad95\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\MyApplication3\caches\transforms-3\f4d9b1a0e901aa9ab70bd36a96b8fa9b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\MyApplication3\caches\transforms-3\f4d9b1a0e901aa9ab70bd36a96b8fa9b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\MyApplication3\caches\transforms-3\ab3f7c22079930573c46c1e355819469\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\MyApplication3\caches\transforms-3\ab3f7c22079930573c46c1e355819469\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\MyApplication3\caches\transforms-3\a6a490f99700e50ea33c5194d4520c51\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\MyApplication3\caches\transforms-3\a6a490f99700e50ea33c5194d4520c51\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\MyApplication3\caches\transforms-3\26b2b979b3827863c66132c52037472c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\MyApplication3\caches\transforms-3\26b2b979b3827863c66132c52037472c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\MyApplication3\caches\transforms-3\6029b5633f1dc7336ce8a4397ee80e01\transformed\ui-util-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.1] D:\MyApplication3\caches\transforms-3\6029b5633f1dc7336ce8a4397ee80e01\transformed\ui-util-1.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\MyApplication3\caches\transforms-3\19e7687a667da7f11c889d2e8fcf4903\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\MyApplication3\caches\transforms-3\19e7687a667da7f11c889d2e8fcf4903\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyApplication3\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] D:\MyApplication3\caches\transforms-3\0b6b41c5d8d9fa8e3d9596f61371c514\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\MyApplication3\caches\transforms-3\c7fb5d642416814e034ccae610f854cc\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\MyApplication3\caches\transforms-3\c7fb5d642416814e034ccae610f854cc\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\MyApplication3\caches\transforms-3\bf69961a17af4827b5db622b00b54edf\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\MyApplication3\caches\transforms-3\bf69961a17af4827b5db622b00b54edf\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\MyApplication3\caches\transforms-3\5d1216fc733be6817cbfa939b990ef74\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\MyApplication3\caches\transforms-3\c7fb5d642416814e034ccae610f854cc\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\MyApplication3\caches\transforms-3\c7fb5d642416814e034ccae610f854cc\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\MyApplication3\caches\transforms-3\c7fb5d642416814e034ccae610f854cc\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.0.1] D:\MyApplication3\caches\transforms-3\205d076c98fc7c2eafca295a322705f9\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:25-88

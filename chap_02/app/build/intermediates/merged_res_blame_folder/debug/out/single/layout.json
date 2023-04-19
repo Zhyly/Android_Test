@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\MyApplication3\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-4:\\layout\\fragment_first.xml",
+        "source": "D:\\MyApplication3\\daemon\\7.5\\com.example.myapplication.app-main-7:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\MyApplication3\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-4:\\layout\\fragment_second.xml",
+        "source": "D:\\MyApplication3\\daemon\\7.5\\com.example.myapplication.app-main-7:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "D:\\MyApplication3\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-4:\\layout\\content_main.xml",
+        "source": "D:\\MyApplication3\\daemon\\7.5\\com.example.myapplication.app-main-7:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-4:/layout/fragment_first.xml",
+        "source": "com.example.myapplication.app-main-7:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "D:\\MyApplication3\\daemon\\7.5\\com.example.myapplication.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "D:\\MyApplication3\\daemon\\7.5\\com.example.myapplication.app-main-7:\\layout\\activity_main.xml"
+    }
+]
