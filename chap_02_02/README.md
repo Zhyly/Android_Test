@@ -14,6 +14,8 @@
 ![image](https://user-images.githubusercontent.com/96356893/236662679-88889b97-b684-4fb5-b479-b056bac7115f.png)
 ![image](https://user-images.githubusercontent.com/96356893/236662693-cbdc1d70-4aaa-4d7b-afea-0601ac229b03.png)
 ## 4.实验结果
+![Screenshot_2023-05-07-19-15-16-37_87338c38a65b97ca221210bf6ff2ed0b](https://user-images.githubusercontent.com/96356893/236674220-8f809156-a1a4-4b58-a993-38c211a7d2ab.jpg)
+
 ![C06CE63ED4D9B988FFA30CDABF7011DC](https://user-images.githubusercontent.com/96356893/236662871-3a62a567-0027-41c4-876c-18436c5404dd.jpg)
 ![3363910190493634E5D06B3E275FBAF1](https://user-images.githubusercontent.com/96356893/236662877-d42d61dd-81fc-4081-b1c3-b06fff5039f5.jpg)
 ![8A9CDA65F5CB35DCB44319401FF111BA](https://user-images.githubusercontent.com/96356893/236662881-af09eee7-7d69-4241-a5bc-6db185bfdc97.jpg)
