@@ -30,4 +30,12 @@
 ## 10.运行应用程序，查看运行结果。
 ![image](https://user-images.githubusercontent.com/96356893/232288123-25b2d1f6-d395-45ee-85d6-6a6224890080.png)
 
+<<<<<<< HEAD
+<<<<<<<< HEAD:chap_02_01/README.md
 ![image](https://user-images.githubusercontent.com/96356893/232288147-f4510f17-79c7-4f6c-a94f-953bec633dd0.png)
+========
+![image](https://user-images.githubusercontent.com/96356893/232288147-f4510f17-79c7-4f6c-a94f-953bec633dd0.png)=
+>>>>>>>> 35b4df8 (5):chap_02_02/README.md
+=======
+![image](https://user-images.githubusercontent.com/96356893/232288147-f4510f17-79c7-4f6c-a94f-953bec633dd0.png)
+>>>>>>> 35b4df8 (5)
